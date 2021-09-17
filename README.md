@@ -12,8 +12,6 @@
 ### Connect with me:
 
 [<img align="left" alt="https://lewds.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AndiiMeredith | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SmallCadaver | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Error#0404 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br />
 
@@ -32,8 +30,8 @@
 <br />
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Xynnix&show_icons=true&include_all_commits=true&hide_border=false&theme=jolly" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynnix&layout=compact&hide_border=false&theme=jolly" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=S3RLL&show_icons=true&include_all_commits=true&hide_border=false&theme=jolly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3RLL&layout=compact&hide_border=false&theme=jolly" />
 </div>
 
 [website]: https://lewds.fun
